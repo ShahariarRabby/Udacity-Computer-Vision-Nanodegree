@@ -4,6 +4,9 @@
 #### Become a Computer Vision Expert
 <p>Master the computer vision skills behind advances in robotics and automation. Write programs to analyze images, implement feature extraction, and recognize objects using deep learning models.</p>
 
+## What You Will Learn.
+
+
 ![CVND outline](asset/outline.png)
 
 
